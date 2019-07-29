@@ -1,0 +1,8 @@
+﻿  final_atm_test1.cpp
+c:\users\좐준\documents\4학년 1학기\c++ - 김석수\final_atm\final_atm_project\final_atm_project\final_atm_test1.cpp(24): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\좐준\documents\4학년 1학기\c++ - 김석수\final_atm\final_atm_project\final_atm_project\final_atm_test1.cpp(76): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  기말고사 atm1.cpp
+c:\users\좐준\documents\4학년 1학기\c++ - 김석수\final_atm\final_atm_project\final_atm_project\기말고사 atm1.cpp(5): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+기말고사 atm1.obj : error LNK2005: _main이(가) final_atm_test1.obj에 이미 정의되어 있습니다.
+C:\Users\좐준\Documents\4학년 1학기\c++ - 김석수\final_atm\final_atm_project\Debug\final_atm_project.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

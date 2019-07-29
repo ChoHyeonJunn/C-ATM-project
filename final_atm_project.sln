@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "final_atm_project", "final_atm_project\final_atm_project.vcxproj", "{55F93C76-E9F2-41FE-9AED-55BACECAB632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Debug|x64.ActiveCfg = Debug|x64
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Debug|x64.Build.0 = Debug|x64
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Debug|x86.ActiveCfg = Debug|Win32
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Debug|x86.Build.0 = Debug|Win32
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Release|x64.ActiveCfg = Release|x64
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Release|x64.Build.0 = Release|x64
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Release|x86.ActiveCfg = Release|Win32
+		{55F93C76-E9F2-41FE-9AED-55BACECAB632}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B68C72B-90BC-45E6-8630-CB4C46375024}
+	EndGlobalSection
+EndGlobal
